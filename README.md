@@ -1,2 +1,3 @@
 # ChoSoftUpdater
-Aktualisiert alle Programm, die via Chocolatey installiert wurden.
+#
+Aktualisiert automatisch alle Programm, die via Chocolatey installiert wurden. 
